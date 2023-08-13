@@ -39,7 +39,7 @@ jobs:
       env:
         POSTGRES_USER: karinaundalova
         POSTGRES_PASSWORD: 889877445263k
-        POSTGRES_DB: django_db
+        POSTGRES_DB: django
 
         DB_HOST: 127.0.0.1
         DB_PORT: 5432
